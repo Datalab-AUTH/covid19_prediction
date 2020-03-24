@@ -13,3 +13,15 @@ Prediction models for Co-vid 19 usecase. This is a spin-off repository of the ma
     - Bordering Countries and the spread of the virus there
 4. Country Indices 
     - Indices about financial state or healthcare of the country, etc.
+5. Demographics
+    - World Bank
+        - % population 0-14 age group: https://data.worldbank.org/
+        - % population 15-64 age group: https://data.worldbank.org/
+        - % population 64 and above age group: https://data.worldbank.org/
+        - total population: https://data.worldbank.org/
+        - % population males: https://data.worldbank.org/
+        - % population females: https://data.worldbank.org/
+        - Current health expenditure (% of GDP): https://data.worldbank.org/
+    - OECD
+        - Hospital Beds (Latest): https://data.oecd.org/healtheqt/hospital-beds.htm
+        - Doctors (Latest): https://data.oecd.org/healthres/doctors.htm
