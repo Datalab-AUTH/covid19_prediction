@@ -25,10 +25,18 @@ Prediction models for Co-vid 19 usecase. This is a spin-off repository of the ma
         - % population males
         - % population females
         - Current health expenditure (% of GDP)
-    - OECD (Latest data) oecd_data.csv
+    - OECD (Latest data) oecd_data.csv [DONE]
         - Hospital Beds
         - Doctors per 1000 habitats
         - Nurses per 1000 habitats
         - Daily smokers - Percentage of the population aged 15+
         - Overweight or obese population - Percentage of the population aged 15+ (available self-reported data used to fill missing values)
         - Alcohol consumption - Annual sales of pure alcohol in litres per person aged 15 years and older
+        - Asthma hospital admission (standardised rate per 100,000 population)
+        - COPD hospital admission (standardised rate per 100,000 population)
+        - Diabetes hospital admission (standardised rate per 100,000 population)
+        - Congestive heart failures and hypertension hospital admission (standardised rate per 100,000 population)
+        - ICU and IMCU beds (per 100,000 population)
+        - Immunization to influenza (% of population aged 65 years and over)
+        - Life expectancy (ages)
+        
