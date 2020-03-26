@@ -9,8 +9,9 @@ Prediction models for Co-vid 19 usecase. This is a spin-off repository of the ma
 2. Government Action
     - Legislature for controlling the spread of the virus
     - Link: https://docs.google.com/spreadsheets/d/1oCieYIoCsKt5ac1aYfR8tWxD4e-y2p2Qz-R1yy39uE8/edit?usp=sharing
-3. Geographical Information
-    - Bordering Countries and the spread of the virus there
+    - Oxford University: https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker (updates daily)
+3. Geographical Informationn country-borders.csv [DONE]
+    - Bordering Countries: https://github.com/geodatasource/country-borders 
 4. Country Indices [DONE]
     - Human Freedom indices
         - % On a scale of 0 to 10, where 10 represents more freedom. More info at https://www.cato.org/human-freedom-index-new
